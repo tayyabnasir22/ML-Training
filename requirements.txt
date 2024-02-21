@@ -1,0 +1,8 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+together==0.2.11
+pydantic-settings==2.1.0
+python-dotenv==1.0.1
+scikit-learn==1.4.1.post1
+spacy==3.7.4
+en-core-web-sm @https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
